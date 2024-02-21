@@ -1,0 +1,6 @@
+N0 N1 5 hill 1
+N0 N2 6 hill 2
+N0 N3 5 toll 1
+N1 N2 5 local 3
+N1 N3 4 highway 4
+N1 N2 2 local 1
